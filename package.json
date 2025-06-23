@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "Sheikh Jabed",
   "license": "ISC",
-  "description": "This is Advanced Note App using Express and Mongoose",
+  "description": "This is Advanced Note App Using Express and Mongoose",
   "dependencies": {
     "express": "^5.1.0",
     "mongodb": "^6.17.0",
